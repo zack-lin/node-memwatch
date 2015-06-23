@@ -37,7 +37,7 @@ instrumentation.  This module attempts to satisfy that need.
 To get started, import `node-memwatch` like so:
 
 ```javascript
-var memwatch = require('memwatch-next');
+var memwatch = require('memwatch-x');
 ```
 
 ### Leak Detection
